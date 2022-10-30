@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "WakeOnLAN": {
+      "commandName": "Project"
+    }
+  }
+}
